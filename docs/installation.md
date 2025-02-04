@@ -1,5 +1,5 @@
-[![license](https://img.shields.io/github/license/plus3it/mothball.svg)](./LICENSE)
-[![Build Status](https://travis-ci.org/plus3it/mothball.svg)](https://travis-ci.org/plus3it/mothball)
+[![license](https://img.shields.io/github/license/MetroStar/mothball.svg)](./LICENSE)
+[![Build Status](https://travis-ci.org/MetroStar/mothball.svg)](https://travis-ci.org/MetroStar/mothball)
 
 # Mothball
 Mothball is a Python package and application for Backing up all ec2 instance configurations for an AWS Account. The
@@ -12,7 +12,7 @@ their AWS account and region.
 For installation with Git from source.
 
 ```
-git clone https://github.com/plus3it/mothball.git
+git clone https://github.com/MetroStar/mothball.git
 cd mothball
 python setup.py build
 sudo python setup.py install
